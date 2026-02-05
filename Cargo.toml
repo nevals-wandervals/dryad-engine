@@ -1,0 +1,11 @@
+[package]
+name = "dryad-engine"
+version = "0.0.0"
+edition = "2024"
+authors = ["Nevals Wandervals<nevals.wandervals@yandex.ru>"]
+rust-version = "1.92.0"
+license = "Apache-2.0"
+readme = "README.md"
+
+[dependencies]
+image = { version = "0.25.9", default-features = false }
